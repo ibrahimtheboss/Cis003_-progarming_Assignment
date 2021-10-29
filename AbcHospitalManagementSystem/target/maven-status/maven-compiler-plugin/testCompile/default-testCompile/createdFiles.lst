@@ -1,0 +1,12 @@
+com\hms\service\AdmitServiceImpTest.class
+com\hms\dao\MedicineUtilsTest.class
+com\hms\dao\AdmitUtilsTest.class
+com\hms\dao\TransferUtilsTest.class
+com\hms\dao\UserUtilsTest.class
+com\hms\dao\BillUtilsTest.class
+com\hms\dao\PatientUtilsTest.class
+com\hms\service\WardServiceImpTest.class
+com\hms\dao\DoctorUtilsTest.class
+com\hms\dao\AppointmentUtilsTest.class
+com\hms\dao\DischargeUtilsTest.class
+com\hms\dao\WardUtilsTest.class
